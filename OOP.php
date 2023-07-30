@@ -2,7 +2,6 @@
 
 // Parent class (kelas induk)
 class Brankas {
-    // Property dengan tiga access modifier: public, private, protected
     public $merk;
     private $kodeKeamanan;
     protected $kapasitas;
